@@ -1,0 +1,18 @@
+.search-box {
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  
+.search-box input {
+    padding: 10px;
+    width: 88.5%;
+    height: 80px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: rgb(103, 103, 103);
+    background-color: rgb(33, 33, 33);
+    border-left: 3px solid rgba(233, 195, 43, 0.835);
+    border-bottom: 5px solid rgba(233, 195, 43, 0.835);
+}
+

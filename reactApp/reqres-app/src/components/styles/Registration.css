@@ -1,0 +1,25 @@
+.regis-glav{
+    background-color: #fff;
+    height: 380px;
+    border-bottom:20px solid #e9cf29 ;
+    border-right:50px solid #e9cf29 ;
+}
+.regis-form {
+    font-size: 30px;
+    margin-left: 120px;
+}
+.regis-title{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.regis-input{
+    height: 20px;
+    width: 350px;
+    margin-left: 10px;
+}
+.regis{
+    margin: 0;
+    margin-top: 30px;
+}

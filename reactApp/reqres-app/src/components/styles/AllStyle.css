@@ -1,0 +1,89 @@
+body{
+    background-color:#111112;
+    color: rgb(0, 0, 0);
+}
+button{
+    padding: 15px 30px;
+    background-color: #e9cf29;
+    color: rgb(13, 12, 12);
+    margin: 20px;
+    font-size: 20px;
+}
+.last-list{
+    margin-left: 120px;
+    background-color: #3f3e3e;
+    color: #fff;
+}
+.app-title{
+    padding-left: 100px;
+    color: #ffffff;
+    font-size: 50px;
+    position: absolute;
+}
+
+.pagination-controls{
+ margin-left: 78px;
+ color: #fff;
+}
+
+.headerRegist{
+    max-width: 480px; /* блок занимает ширину родителя, max-width её ограничивает */
+    margin-left: auto;
+    padding-top: 25px;
+}
+.headApp{
+    background-color: #282727;
+    border-bottom:4px solid #000000 ;
+    padding-bottom: 30px;
+}
+.all-head{
+    max-width: 480px; /* блок занимает ширину родителя, max-width её ограничивает */
+    margin-left: auto;
+    padding-top: 25px;
+}
+.prof-name{
+    font-size: 20px;
+    color: #fff;
+}
+.my-prof{
+    margin-top: 50px;
+    background-color: #fff;
+    border-bottom:20px solid #e9cf29;
+    border-top:20px solid #e9cf29;
+}
+.prof-title{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.li-regact{
+    list-style-type: none;
+    font-size: 30px;
+    margin-left: 87px;
+}
+.prof-input{
+    height: 20px;
+    width: 350px;
+    margin-left: 10px;
+}
+.prof-email{
+    margin-left: 90px;
+    margin-top: 0;
+    padding: 30px;
+    padding-top: 0;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.prof-name{
+    color: #000000;
+    font-size: 30px;
+    margin-left: 120px;
+}
+.prof-btn{
+    margin-left: 120px;
+}
+.prof-save{
+    margin-left: 90px;
+    margin-top: 50px;
+}

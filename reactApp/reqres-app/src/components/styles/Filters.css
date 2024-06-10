@@ -1,0 +1,18 @@
+.filters{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.filter{
+    padding: 10px;
+    width: 20%;
+    box-sizing: border-box;
+    font-size: 18px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    background-color:rgb(33, 33, 33);
+    color: #9f9c9c;
+    border-right: 3px solid rgba(233, 195, 43, 0.835);
+    border-bottom: 1px solid rgba(233, 195, 43, 0.835);
+}

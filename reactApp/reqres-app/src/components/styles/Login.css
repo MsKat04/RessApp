@@ -1,0 +1,37 @@
+.exit{
+    margin-top: 30px;
+    border-bottom: 20px solid #e9cf29;
+    border-left: 10px solid #e9cf29;
+    background-color: #fff;
+}
+.exit-login{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.btn-exit{
+    margin: 0;
+    margin-top: 20px;
+    background-color: black;
+    color:#e9cf29;
+}
+.form-list{
+    font-size: 30px;
+    margin-left: 120px;
+}
+.email{
+    height: 20px;
+    width: 350px;
+    margin-left: 10px;
+}
+.password{
+    height: 20px;
+    width: 317px;
+    margin-left: 10px;
+}
+.regist{
+    position: relative;
+    left: 362px;
+    bottom: 75px;
+}
